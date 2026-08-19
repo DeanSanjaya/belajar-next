@@ -181,26 +181,6 @@ export default function Home() {
 
       <footer className="mt-20 pt-12 border-t border-border flex flex-col md:flex-row items-center justify-between gap-6 text-muted-foreground text-sm">
         <p>© 2026 LearnNext Portal. Ayo belajar bersama!</p>
-        <div className="flex items-center gap-6">
-          <a
-            href="#"
-            className="hover:text-primary transition-colors"
-          >
-            Documentation
-          </a>
-          <a
-            href="#"
-            className="hover:text-primary transition-colors"
-          >
-            GitHub
-          </a>
-          <a
-            href="#"
-            className="hover:text-primary transition-colors"
-          >
-            Community
-          </a>
-        </div>
       </footer>
     </div>
   );
